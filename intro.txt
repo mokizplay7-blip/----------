@@ -1,0 +1,4 @@
+вступ до html
+
+git config --global user.name "006planeta"
+git config --global user.email "mokizplay7@gmail.com"
